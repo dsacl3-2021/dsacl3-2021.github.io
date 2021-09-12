@@ -1,0 +1,125 @@
+- week: "00"
+  dates:
+    Oct 18: "No class"
+    Oct 20: "No class"
+    Oct 22: "No class"
+- week: "01"
+  dates:
+    Oct 25:
+      topic: TBA
+    Oct 27:
+      topic: TBA
+    Oct 29:
+      topic: TBA
+- week: "02"
+  dates:
+    Nov 01: "No class"
+    Nov 03:
+      topic: TBA
+    Nov 05:
+      topic: TBA
+- week: "03"
+  dates:
+    Nov 08:
+      topic: TBA
+    Nov 10:
+      topic: TBA
+    Nov 12:
+      topic: TBA
+- week: "04"
+  dates:
+    Nov 15:
+      topic: TBA
+    Nov 17:
+      topic: TBA
+    Nov 19:
+      topic: TBA
+- week: "05"
+  dates:
+    Nov 22:
+      topic: TBA
+    Nov 24:
+      topic: TBA
+    Nov 26:
+      topic: TBA
+- week: "06"
+  dates:
+    Nov 29:
+      topic: TBA
+    Dec 01:
+      topic: TBA
+    Dec 03:
+      topic: TBA
+- week: "07"
+  dates:
+    Dec 06:
+      topic: TBA
+    Dec 08:
+      topic: TBA
+    Dec 10:
+      topic: TBA
+- week: "08"
+  dates:
+    Dec 13:
+      topic: TBA
+    Dec 15:
+      topic: TBA
+    Dec 17:
+      topic: TBA
+- week: "09"
+  dates:
+    Dec 20:
+      topic: TBA
+    Dec 22:
+      topic: TBA
+    Dec 24: "No class"
+- week: ""
+  dates:
+    Dec 27: "Sem. break"
+    Dec 29: "Sem. break"
+    Dec 31: "Sem. break"
+- week: ""
+  dates:
+    Jan 03: "Sem. break"
+    Jan 05: "Sem. break"
+    Jan 07: "Sem. break"
+- week: "10"
+  dates:
+    Jan 10:
+      topic: TBA
+    Jan 12:
+      topic: TBA
+    Jan 14:
+      topic: TBA
+- week: "11"
+  dates:
+    Jan 17:
+      topic: TBA
+    Jan 19:
+      topic: TBA
+    Jan 21:
+      topic: TBA
+- week: "12"
+  dates:
+    Jan 24:
+      topic: TBA
+    Jan 26:
+      topic: TBA
+    Jan 28:
+      topic: TBA
+- week: "13"
+  dates:
+    Jan 31:
+      topic: TBA
+    Feb 02:
+      topic: TBA
+    Feb 04:
+      topic: TBA
+- week: "14"
+  dates:
+    Feb 07:
+      topic: TBA
+    Feb 09:
+      topic: TBA
+    Feb 11:
+      topic: TBA
