@@ -6,72 +6,72 @@
 - week: "01"
   dates:
     Oct 25:
-      topic: TBA
+      topic: introduction / administrivia
     Oct 27:
-      topic: TBA
+      topic: recap
     Oct 29:
-      topic: TBA
+      topic: Python intro
 - week: "02"
   dates:
     Nov 01: "No class"
     Nov 03:
-      topic: TBA
+      topic: analysis of algorithms
     Nov 05:
       topic: TBA
 - week: "03"
   dates:
     Nov 08:
-      topic: TBA
+      topic: analysis of algorithms
     Nov 10:
-      topic: TBA
+      topic: common algorithmic patterns
     Nov 12:
       topic: TBA
 - week: "04"
   dates:
     Nov 15:
-      topic: TBA
+      topic: sorting
     Nov 17:
-      topic: TBA
+      topic: sorting
     Nov 19:
       topic: TBA
 - week: "05"
   dates:
     Nov 22:
-      topic: TBA
+      topic: trees
     Nov 24:
-      topic: TBA
+      topic: heaps / priority queues
     Nov 26:
       topic: TBA
 - week: "06"
   dates:
     Nov 29:
-      topic: TBA
+      topic: "graphs: intro"
     Dec 01:
-      topic: TBA
+      topic: "graphs: traversals"
     Dec 03:
       topic: TBA
 - week: "07"
   dates:
     Dec 06:
-      topic: TBA
+      topic: "graphs: directed graphs"
     Dec 08:
-      topic: TBA
+      topic: "graphs: MST"
     Dec 10:
       topic: TBA
 - week: "08"
   dates:
     Dec 13:
-      topic: TBA
+      topic: "graphs: shortest paths"
     Dec 15:
-      topic: TBA
+      topic: maps / hashes
     Dec 17:
       topic: TBA
 - week: "09"
   dates:
     Dec 20:
-      topic: TBA
+      topic: string matching
     Dec 22:
-      topic: TBA
+      topic: edit distance
     Dec 24: "No class"
 - week: ""
   dates:
@@ -86,40 +86,40 @@
 - week: "10"
   dates:
     Jan 10:
-      topic: TBA
+      topic: recap
     Jan 12:
-      topic: TBA
+      topic: tries
     Jan 14:
       topic: TBA
 - week: "11"
   dates:
     Jan 17:
-      topic: TBA
+      topic: FSA
     Jan 19:
-      topic: TBA
+      topic: FSA
     Jan 21:
       topic: TBA
 - week: "12"
   dates:
     Jan 24:
-      topic: TBA
+      topic: FSA
     Jan 26:
-      topic: TBA
+      topic: Parsing
     Jan 28:
       topic: TBA
 - week: "13"
   dates:
     Jan 31:
-      topic: TBA
+      topic: Parsing
     Feb 02:
-      topic: TBA
+      topic: Parsing
     Feb 04:
       topic: TBA
 - week: "14"
   dates:
     Feb 07:
-      topic: TBA
+      topic: recap / summary
     Feb 09:
-      topic: TBA
+      topic: summary
     Feb 11:
-      topic: TBA
+      topic: exam
