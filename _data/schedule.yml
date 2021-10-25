@@ -7,8 +7,14 @@
   dates:
     Oct 25:
       topic: introduction / administrivia
+      links:
+        slides: slides/introduction.pdf
+        handout: slides/introduction-handout.pdf
     Oct 27:
       topic: recap
+      links:
+        slides: slides/recap.pdf
+        handout: slides/recap-handout.pdf
     Oct 29:
       topic: Python intro
 - week: "02"
