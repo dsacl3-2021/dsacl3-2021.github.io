@@ -22,6 +22,9 @@
     Nov 01: "No class"
     Nov 03:
       topic: analysis of algorithms
+      links:
+        slides: slides/analysis.pdf
+        handout: slides/analysis-handout.pdf
     Nov 05:
       topic: TBA
 - week: "03"
