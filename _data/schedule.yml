@@ -33,12 +33,18 @@
       topic: analysis of algorithms
     Nov 10:
       topic: common algorithmic patterns
+      links:
+        slides: slides/patterns.pdf
+        handout: slides/patterns-handout.pdf
     Nov 12:
       topic: TBA
 - week: "04"
   dates:
     Nov 15:
       topic: sorting
+      links:
+        slides: slides/sorting.pdf
+        handout: slides/sorting-handout.pdf
     Nov 17:
       topic: sorting
     Nov 19:
