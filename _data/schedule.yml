@@ -53,8 +53,14 @@
   dates:
     Nov 22:
       topic: trees
+      links:
+        slides: slides/trees.pdf
+        handout: slides/trees-handout.pdf
     Nov 24:
       topic: heaps / priority queues
+      links:
+        slides: slides/pq-heap.pdf
+        handout: slides/pq-heap-handout.pdf
     Nov 26:
       topic: TBA
 - week: "06"
