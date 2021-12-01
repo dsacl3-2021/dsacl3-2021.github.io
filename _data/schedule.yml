@@ -72,6 +72,9 @@
         handout: slides/graphs-intro-handout.pdf
     Dec 01:
       topic: "graphs: traversals"
+      links:
+        slides: slides/graph-traversal.pdf
+        handout: slides/graph-traversal-handout.pdf
     Dec 03:
       topic: TBA
 - week: "07"
