@@ -81,8 +81,14 @@
   dates:
     Dec 06:
       topic: "graphs: directed graphs"
+      links:
+        slides: slides/digraphs.pdf
+        handout: slides/digraphs-handout.pdf
     Dec 08:
       topic: "graphs: MST"
+      links:
+        slides: slides/mst.pdf
+        handout: slides/mst-handout.pdf
     Dec 10:
       topic: TBA
 - week: "08"
