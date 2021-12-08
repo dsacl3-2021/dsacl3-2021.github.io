@@ -85,16 +85,19 @@
         slides: slides/digraphs.pdf
         handout: slides/digraphs-handout.pdf
     Dec 08:
-      topic: "graphs: MST"
+      topic: "graphs: shortest paths"
       links:
-        slides: slides/mst.pdf
-        handout: slides/mst-handout.pdf
+        slides: slides/shortest-paths.pdf
+        handout: slides/shortest-paths-handout.pdf
     Dec 10:
       topic: TBA
 - week: "08"
   dates:
     Dec 13:
-      topic: "graphs: shortest paths"
+      topic: "graphs: MST"
+      links:
+        slides: slides/mst.pdf
+        handout: slides/mst-handout.pdf
     Dec 15:
       topic: maps / hashes
     Dec 17:
