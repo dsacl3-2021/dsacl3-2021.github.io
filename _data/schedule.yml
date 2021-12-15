@@ -109,6 +109,9 @@
   dates:
     Dec 20:
       topic: string matching
+      links:
+        slides: slides/string-matching.pdf
+        handout: slides/string-matching-handout.pdf
     Dec 22:
       topic: edit distance
     Dec 24: "No class"
