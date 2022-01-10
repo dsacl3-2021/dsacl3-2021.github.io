@@ -113,7 +113,7 @@
         slides: slides/string-matching.pdf
         handout: slides/string-matching-handout.pdf
     Dec 22:
-      topic: edit distance
+      topic: string matching / recap
     Dec 24: "No class"
 - week: ""
   dates:
@@ -128,7 +128,10 @@
 - week: "10"
   dates:
     Jan 10:
-      topic: recap
+      topic: edit distance
+      links:
+        slides: slides/edit-distance.pdf
+        handout: slides/edit-distance-handout.pdf
     Jan 12:
       topic: tries
     Jan 14:
