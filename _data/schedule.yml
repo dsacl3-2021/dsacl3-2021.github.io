@@ -26,7 +26,9 @@
         slides: slides/analysis.pdf
         handout: slides/analysis-handout.pdf
     Nov 05:
-      topic: TBA
+      topic: lab
+      links: 
+        assignment 1: a1/
 - week: "03"
   dates:
     Nov 08:
@@ -37,7 +39,7 @@
         slides: slides/patterns.pdf
         handout: slides/patterns-handout.pdf
     Nov 12:
-      topic: TBA
+      topic: lab
 - week: "04"
   dates:
     Nov 15:
@@ -48,7 +50,9 @@
     Nov 17:
       topic: sorting
     Nov 19:
-      topic: TBA
+      topic: lab
+      links: 
+        assignment 2: a2/
 - week: "05"
   dates:
     Nov 22:
@@ -62,7 +66,7 @@
         slides: slides/pq-heap.pdf
         handout: slides/pq-heap-handout.pdf
     Nov 26:
-      topic: TBA
+      topic: lab
 - week: "06"
   dates:
     Nov 29:
@@ -76,7 +80,9 @@
         slides: slides/graph-traversal.pdf
         handout: slides/graph-traversal-handout.pdf
     Dec 03:
-      topic: TBA
+      topic: lab
+      links: 
+        assignment 3: a3/
 - week: "07"
   dates:
     Dec 06:
@@ -90,7 +96,7 @@
         slides: slides/shortest-paths.pdf
         handout: slides/shortest-paths-handout.pdf
     Dec 10:
-      topic: TBA
+      topic: lab
 - week: "08"
   dates:
     Dec 13:
@@ -104,7 +110,7 @@
         slides: slides/hashing.pdf
         handout: slides/hashing-handout.pdf
     Dec 17:
-      topic: TBA
+      topic: lab
 - week: "09"
   dates:
     Dec 20:
@@ -135,7 +141,9 @@
     Jan 12:
       topic: tries
     Jan 14:
-      topic: TBA
+      topic: lab
+      links: 
+        assignment 1: a4/
 - week: "11"
   dates:
     Jan 17:
@@ -143,7 +151,7 @@
     Jan 19:
       topic: FSA
     Jan 21:
-      topic: TBA
+      topic: lab
 - week: "12"
   dates:
     Jan 24:
@@ -151,7 +159,7 @@
     Jan 26:
       topic: Parsing
     Jan 28:
-      topic: TBA
+      topic: lab
 - week: "13"
   dates:
     Jan 31:
@@ -159,7 +167,7 @@
     Feb 02:
       topic: Parsing
     Feb 04:
-      topic: TBA
+      topic: lab
 - week: "14"
   dates:
     Feb 07:
