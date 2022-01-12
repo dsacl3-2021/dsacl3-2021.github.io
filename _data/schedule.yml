@@ -140,10 +140,13 @@
         handout: slides/edit-distance-handout.pdf
     Jan 12:
       topic: tries
+      links:
+        slides: slides/tries.pdf
+        handout: slides/tries-handout.pdf
     Jan 14:
       topic: lab
       links: 
-        assignment 1: a4/
+        assignment 4: a4/
 - week: "11"
   dates:
     Jan 17:
