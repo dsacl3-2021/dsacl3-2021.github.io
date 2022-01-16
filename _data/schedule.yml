@@ -150,15 +150,29 @@
 - week: "11"
   dates:
     Jan 17:
-      topic: FSA
+      topic: FSA intro
+      links:
+        slides: slides/fsa.pdf
+        handout: slides/fsa-handout.pdf
     Jan 19:
-      topic: FSA
+      topic: FSA determinization / minimization
+      links:
+        slides-det: slides/fsa-determinization.pdf
+        handout-det: slides/fsa-determinization-handout.pdf
+        slides-min: slides/fsa-minimization.pdf
+        handout-min: slides/fsa-minimization-handout.pdf
     Jan 21:
-      topic: lab
+      topic: FSTs / lab
+      links:
+        slides: slides/fst.pdf
+        handout: slides/fst-handout.pdf
 - week: "12"
   dates:
     Jan 24:
-      topic: FSA
+      topic: FSA and regular languages
+      links:
+        slides: slides/fsa-regular.pdf
+        handout: slides/fsa-regular.pdf
     Jan 26:
       topic: Parsing
     Jan 28:
