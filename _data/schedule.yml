@@ -166,6 +166,7 @@
       links:
         slides: slides/fst.pdf
         handout: slides/fst-handout.pdf
+        assignment 5: a5/
 - week: "12"
   dates:
     Jan 24:
