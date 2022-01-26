@@ -173,15 +173,21 @@
       topic: FSA and regular languages
       links:
         slides: slides/fsa-regular.pdf
-        handout: slides/fsa-regular.pdf
+        handout: slides/fsa-regular-handout.pdf
     Jan 26:
       topic: Parsing
+      links:
+        slides: slides/parsing-intro.pdf
+        handout: slides/parsing-intro-handout.pdf
     Jan 28:
       topic: lab
 - week: "13"
   dates:
     Jan 31:
       topic: Parsing
+      links:
+        slides: slides/cky.pdf
+        handout: slides/cky-handout.pdf
     Feb 02:
       topic: Parsing
     Feb 04:
