@@ -175,7 +175,7 @@
         slides: slides/fsa-regular.pdf
         handout: slides/fsa-regular-handout.pdf
     Jan 26:
-      topic: Parsing: Intro
+      topic: "Parsing: Intro"
       links:
         slides: slides/parsing-intro.pdf
         handout: slides/parsing-intro-handout.pdf
@@ -184,14 +184,14 @@
 - week: "13"
   dates:
     Jan 31:
-      topic: Parsing: CKY / Earey
+      topic: "Parsing: CKY / Earey"
       links:
         cky-slides: slides/cky.pdf
         cky-handout: slides/cky-handout.pdf
         earley-slides: slides/earley.pdf
         earley-handout: slides/earley-handout.pdf
     Feb 02:
-      topic: Parsing: dependencies
+      topic: "Parsing: dependencies"
       links:
         cky-slides: slides/dependency-parsing.pdf
         cky-handout: slides/dependency-parsing-handout.pdf
