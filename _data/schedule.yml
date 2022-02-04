@@ -197,6 +197,8 @@
         cky-handout: slides/dependency-parsing-handout.pdf
     Feb 04:
       topic: lab
+      links:
+        assignment 6: a6/
 - week: "14"
   dates:
     Feb 07:
