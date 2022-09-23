@@ -30,7 +30,7 @@ structures in small, but practical, applications.
 | **Computer lab**  | Fri 14:00-18:00, room 0.02 |
 | **First Lecture** | October 25 |
 | **Lecturer**      | Çağrı Çöltekin [\<ccoltekin@sfs.uni-tuebingen.de\>](mailto:ccoltekin@sfs.uni-tuebingen.de) |
-| **Tutors**        | TBA |
+| **Tutors**        | Klara Lennerman, Siena Biales |
 
 
 ### Goals
